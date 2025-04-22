@@ -61,13 +61,13 @@ function Modal({ toggleModal }) {
         </h4>
         <p className="modal__para">
           I'm a 19 year-old Lebanese{" "}
-          <b className="orange">frontend Developer </b>
+          <b className="purple">frontend Developer </b>
           with a strong passion for developing websites with great{" "}
-          <b className="orange">user experience</b>.
+          <b className="purple">user experience</b>.
           <br />I currently solve extremely difficult engineering problems and
           learn from a team consisting of some of the most{" "}
-          <b className="orange">talented</b> and{" "}
-          <b className="orange">experienced </b>
+          <b className="purple">talented</b> and{" "}
+          <b className="purple">experienced </b>
           software engineers everyday.
         </p>
         <div className="modal__languages">

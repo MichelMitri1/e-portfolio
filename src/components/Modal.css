@@ -98,8 +98,8 @@
 }
 
 .form__submit {
-  background-color: #f06449;
-  border: 2px solid #f06449;
+  background-color: #4f009e;
+  border: 2px solid #4f009e;
   color: white;
   font-weight: 700;
   width: 100%;
@@ -115,8 +115,8 @@
 }
 
 .form__submit:active {
-  border-color: #f06449;
-  color: #f06449;
+  border-color: #4f009e;
+  color: #4f009e;
 }
 
 .modal__overlay {

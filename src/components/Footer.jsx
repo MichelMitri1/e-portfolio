@@ -2,7 +2,7 @@ import React from "react";
 import "../components/Footer.css";
 import ArrowUpwardIcon from "@mui/icons-material/ArrowUpward";
 import king from "../assets/MichelMitri1-removebg-preview.png";
-import resume from "../assets/Resume.pdf";
+// import resume from "../assets/Resume.pdf";
 function Footer() {
   let isModalOpen = false;
 
@@ -61,7 +61,7 @@ function Footer() {
             >
               Contact
             </a>
-            <a
+            {/* <a
               href={resume}
               target="_blank"
               className="
@@ -71,7 +71,7 @@ function Footer() {
               rel="noreferrer"
             >
               Resume
-            </a>
+            </a> */}
           </div>
           <div className="footer__copyright">
             Copyright &copy; 2022 Michel Mitri

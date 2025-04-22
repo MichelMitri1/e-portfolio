@@ -10,7 +10,7 @@ function Projects() {
       <div className="container">
         <div className="row">
           <h1 className="section__title">
-            Here are some of my <span className="orange">projects</span>
+            Here are some of my <span className="purple">projects</span>
           </h1>
           <ul className="project__list">
             {data.map((data) => (
